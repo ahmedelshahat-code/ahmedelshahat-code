@@ -15,7 +15,6 @@ I am an Electronics Engineering undergraduate (**7th Semester**, **GPA: 3.02** o
 
 - 🔧 Proven track record in designing arithmetic logic shift units (**ALSU**), synchronous **Finite State Machines (FSMs)**, quantized fixed-point **Neural Network Hardware Accelerators**, and automated **Hardware-in-the-Loop (HIL)** verification environments.
 - 🛠️ Experienced with **Xilinx Vivado**, **Cadence Virtuoso** (Schematic Capture, Custom Layout, DRC/LVS), **Silvaco TCAD** (Athena & Atlas), and **Open-Source EDA** digital implementation flows.
-- 🎓 Currently seeking a **Graduation Project Sponsorship in the Digital Design Track at Si-Vision Academy (Starting January 2027)**.
 
 ---
 
@@ -73,7 +72,7 @@ I am an Electronics Engineering undergraduate (**7th Semester**, **GPA: 3.02** o
 
 ### 🏛️ German University in Cairo (GUC) — *Cairo, Egypt*
 **B.Sc. in Information Engineering and Technology (Electronics Engineering)** | *Expected Graduation: 2027*
-- **Academic Standing:** 7th Semester (Entering 8th Semester Bachelor's Thesis in Jan/Feb 2027) · **Cumulative GPA:** `3.02` *(German Grading Scale; 1.0 = Highest Distinction)*
+- **Academic Standing:** 7th Semester · **Cumulative GPA:** `3.02` *(German Grading Scale; 1.0 = Highest Distinction)*
 - **Relevant Coursework:** Digital Logic Design, Microelectronics, ASIC and FPGA Design, Computer Architecture, Microcontrollers, Semiconductor Devices and Fabrication
 - **Technical Training:** Open-Source EDA Workshop *(Digital Implementation and Layout Flows, Sep 2026)*
 
