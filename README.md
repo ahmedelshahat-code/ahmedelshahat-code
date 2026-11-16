@@ -4,7 +4,7 @@
 
 [![Cairo, Egypt](https://img.shields.io/badge/Location-Cairo%2C%20Egypt-1f6feb?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/ahmedelshahat-code)
 [![Email](https://img.shields.io/badge/Email-refaatahmed002%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:refaatahmed002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--refaat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-refaat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--refaat--0bb4412b9-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-refaat-0bb4412b9/)
 [![Focus](https://img.shields.io/badge/Track-Digital%20IC%20%26%20FPGA%20Design-2ea44f?style=flat-square)](https://github.com/ahmedelshahat-code)
 
 ---
@@ -86,5 +86,5 @@ I am an Electronics Engineering undergraduate (**7th Semester**, **GPA: 3.02** o
 ## 📫 Connect With Me
 
 - **Email:** [refaatahmed002@gmail.com](mailto:refaatahmed002@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ahmed-refaat](https://www.linkedin.com/in/ahmed-refaat)
+- **LinkedIn:** [linkedin.com/in/ahmed-refaat-0bb4412b9](https://www.linkedin.com/in/ahmed-refaat-0bb4412b9/)
 - **Phone:** +20 101 487 5821 (Cairo, Egypt)
